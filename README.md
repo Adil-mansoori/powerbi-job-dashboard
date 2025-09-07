@@ -20,11 +20,7 @@ The dashboard explores job data with:
 ---
 
 ## 📷 Dashboard Preview
-| Overview | Map View | Filters |
-|----------|----------|---------|
-| ![](reports/screenshots/overview.png) | ![](reports/screenshots/map_view.png) | ![](reports/screenshots/filters.png) |
-
----
+--job-dashboard 1 sambple : https://app.powerbi.com/reportEmbed?reportId=fb1bc531-2c37-4a9e-8e6a-a3a79f545dc7&autoAuth=true&ctid=1e355c04-e0a4-42ed-8e2d-7351591f0ef1
 
 ## 🗂️ Dataset
 - **Source**: Sample job dataset (self-prepared for practice)  
